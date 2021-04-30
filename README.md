@@ -1,4 +1,4 @@
-# TDT4171_Assignment5
+# Assignment 5 in the course TDT4171
 A simple neural network, trained on the "Breast Cancer Wisconsin (Diagnostic) Data Set", available here: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 
 
